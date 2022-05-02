@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "Shooters",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "/Users/Shared/Epic Games/UE_4.27"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"/Users/Ryuuuu/Documents/Unreal Projects/Shooters/Intermediate/Build/Mac/x86_64/UE4Editor/Development/Shooters/Definitions.Shooters.h",
+			"/Users/Ryuuuu/Documents/Unreal Projects/Shooters/Intermediate/Build/Mac/x86_64/ShootersEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp",
+			"vadimcn.vscode-lldb",
+			"ms-vscode.mono-debug"
+		]
+	}
+}
